@@ -32,7 +32,13 @@ Ensure you have **Node.js** and **MongoDB** installed on your local machine.
 
 3.Install dependencies:
     ```bash
-   npm init -y && npm i nodemon && npm i ejs && npm i express && npm i mongodb && npm i method-override
+   npm init -y
+   npm i nodemon
+   npm i ejs
+   npm i express
+   npm i mongodb
+   npm i method-override
+   ```
 
 4. Set up your MongoDB connection.
 
