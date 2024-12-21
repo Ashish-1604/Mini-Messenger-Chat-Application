@@ -38,6 +38,7 @@ Ensure you have **Node.js** and **MongoDB** installed on your local machine.
    npm i express
    npm i mongodb
    npm i method-override
+   ```bash
 
 4. Set up your MongoDB connection.
 
